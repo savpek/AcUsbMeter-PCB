@@ -1,0 +1,23 @@
+[Eagle]
+Version="05 11 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="Z:/PCB/eagle/libraries/savpek_electronics/RC_and_L.lbr"
+UsedLibrary="project_specific_parts.lbr"
+UsedLibrary="Z:/PCB/eagle/libraries/savpek_electronics/connectors.lbr"
+UsedLibrary="Z:/PCB/eagle/libraries/savpek_electronics/schematic_supply.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="444 201 1336 871"
+State=2
+Number=0
+
+[Desktop]
+Screen="3840 1327"
+Window="Win_1"
